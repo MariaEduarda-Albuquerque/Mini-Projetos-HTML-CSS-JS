@@ -1,15 +1,15 @@
-# 🧮 Calculadora de Soma
+# Calculadora de Soma
 
 Projeto simples de uma **calculadora de soma**, desenvolvido com **HTML, CSS e JavaScript**, com foco no aprendizado de lógica básica.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 * Inserção de dois valores numéricos
 * Cálculo automático da soma
 * Exibição do resultado na tela
 * Validação para aceitar apenas números
 
-## ▶️ Como usar
+## Como usar
 
 1. Abra o arquivo `index.html` no navegador
 2. Digite dois números nos campos indicados
