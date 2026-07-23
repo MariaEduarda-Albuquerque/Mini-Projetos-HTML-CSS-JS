@@ -16,7 +16,7 @@ Projeto simples de uma **calculadora de soma**, desenvolvido com **HTML, CSS e J
 3. Clique no botão **Somar**
 4. O resultado será exibido logo abaixo
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 
 Este projeto foi criado com fins **educacionais**, para praticar:
 
