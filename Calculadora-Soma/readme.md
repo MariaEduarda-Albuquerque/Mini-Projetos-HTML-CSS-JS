@@ -2,6 +2,14 @@
 
 Projeto simples de uma **calculadora de soma**, desenvolvido com **HTML, CSS e JavaScript**, com foco no aprendizado de lógica básica.
 
+🔗 [**Ver demonstração online**](https://mariaeduarda-albuquerque.github.io/Mini-Projetos-HTML-CSS-JS/Calculadora-soma/)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
 ## Funcionalidades
 
 * Inserção de dois valores numéricos
@@ -24,4 +32,6 @@ Este projeto foi criado com fins **educacionais**, para praticar:
 * Manipulação de elementos HTML
 * Validação de entrada de dados
 
-*Observações: Este projeto tem fins educacionais e foi criado para treinar conceitos básicos de desenvolvimento web.*
+---
+
+<p align="center">Desenvolvido por Maria Eduarda Albuquerque</p>
