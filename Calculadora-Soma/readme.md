@@ -2,7 +2,7 @@
 
 Projeto simples de uma **calculadora de soma**, desenvolvido com **HTML, CSS e JavaScript**, com foco no aprendizado de lógica básica.
 
-🔗 [**Ver demonstração online**](https://mariaeduarda-albuquerque.github.io/Mini-Projetos-HTML-CSS-JS/Calculadora-soma/)
+🔗 [**Ver demonstração online**](https://mariaeduarda-albuquerque.github.io/Mini-Projetos-HTML-CSS-JS/Calculadora-Soma/index.html)
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
